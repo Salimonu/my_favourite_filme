@@ -6,7 +6,7 @@ import Logo from './components/Logo';
 import Box from './components/Box';
 import MovieList from './components/MovieList';
 import Movie from './components/Movie';
-import Numresults from './components/Numresults';
+import Numresults from './components/NumResults';
 import Search from './components/Search';
 import WatchedList from './components/WatchedList';
 import WatchedSummary from './components/WatchedSummary';
